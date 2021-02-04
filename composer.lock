@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c02ead9a6d919588e422cfe4c59d68c2",
+    "content-hash": "611d825c70f6dae684d47036aa32271a",
     "packages": [
         {
             "name": "automattic/jetpack-autoloader",
@@ -43,9 +43,6 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Creates a custom autoloader for a plugin or theme.",
-            "support": {
-                "source": "https://github.com/Automattic/jetpack-autoloader/tree/v2.7.1"
-            },
             "time": "2020-12-18T22:33:59+00:00"
         },
         {
@@ -281,10 +278,6 @@
                 "geolocation",
                 "maxmind"
             ],
-            "support": {
-                "issues": "https://github.com/maxmind/MaxMind-DB-Reader-php/issues",
-                "source": "https://github.com/maxmind/MaxMind-DB-Reader-php/tree/v1.6.0"
-            },
             "time": "2019-12-19T22:59:03+00:00"
         },
         {
@@ -359,10 +352,6 @@
                 "email",
                 "pre-processing"
             ],
-            "support": {
-                "issues": "https://github.com/MyIntervals/emogrifier/issues",
-                "source": "https://github.com/MyIntervals/emogrifier"
-            },
             "time": "2019-12-26T19:37:31+00:00"
         },
         {
@@ -412,10 +401,6 @@
                 "container-interop",
                 "psr"
             ],
-            "support": {
-                "issues": "https://github.com/php-fig/container/issues",
-                "source": "https://github.com/php-fig/container/tree/master"
-            },
             "time": "2017-02-14T16:28:37+00:00"
         },
         {
@@ -469,9 +454,6 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
-            "support": {
-                "source": "https://github.com/symfony/css-selector/tree/master"
-            },
             "time": "2017-05-01T15:01:29+00:00"
         },
         {
@@ -507,10 +489,6 @@
             ],
             "description": "Action Scheduler for WordPress and WooCommerce",
             "homepage": "https://actionscheduler.org/",
-            "support": {
-                "issues": "https://github.com/woocommerce/action-scheduler/issues",
-                "source": "https://github.com/woocommerce/action-scheduler/tree/master"
-            },
             "time": "2020-05-12T16:22:33+00:00"
         },
         {
@@ -603,10 +581,6 @@
                 "gutenberg",
                 "woocommerce"
             ],
-            "support": {
-                "issues": "https://github.com/woocommerce/woocommerce-gutenberg-products-block/issues",
-                "source": "https://github.com/woocommerce/woocommerce-gutenberg-products-block/tree/v4.0.0"
-            },
             "time": "2020-12-08T13:17:01+00:00"
         }
     ],
